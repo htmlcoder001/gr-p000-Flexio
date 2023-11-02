@@ -1,0 +1,680 @@
+<!DOCTYPE html><html lang="el" dir="ltr" prefix="og: https://ogp.me/ns#"><head><meta charset="utf-8"><meta name="Generator" content="Drupal 9 (https://www.drupal.org)"><meta name="MobileOptimized" content="width"><meta name="HandheldFriendly" content="true"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="canonical" href="https://www.lifo.gr/"><link rel="shortlink" href="https://www.lifo.gr/"><meta name="referrer" content="origin"><meta name="rights" content="©2023 LiFO. All rights reserved."><meta name="description" content="Ειδήσεις, έκτακτη επικαιρότητα και ό,τι συμβαίνει στη πόλη, στην κοινωνία, στις τέχνες, στη διασκέδαση και στον πολιτισμό από το Lifo.gr"><meta property="fb:admins" content="100001488586306"><meta property="fb:app_id" content="655762191870497"><link rel="shortcut icon" href="../favicon.ico"><link rel="mask-icon" href="logo.svg"><link rel="icon" sizes="16x16" href="../images/favicon-16x16.png"><link rel="icon" sizes="32x32" href="../images/favicon-32x32.png"><link rel="icon" sizes="96x96" href="../images/favicon-96x96.png"><link rel="icon" sizes="192x192" href="../images/android-icon-192x192.png"><link rel="apple-touch-icon" href="../images/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="../images/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="../images/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="../images/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="../images/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="../images/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="../images/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="../images/apple-icon-180x180.png"><link rel="apple-touch-icon-precomposed" href="../images/apple-icon-57x57.png"><meta property="og:site_name" content="LiFO"><meta property="og:type" content="article"><meta property="og:url" content="https://www.lifo.gr/images/feed.svg"><meta property="og:title" content="Η σελίδα δε βρέθηκε | LiFO"><meta property="og:description" content="Όλες οι ειδήσεις, τα τελευταία νέα και η έκτακτη επικαιρότητα καθώς και ό,τι είναι νέο και σημαντικό στην κοινωνία, την πόλη, τις τέχνες και την διασκέδαση στο Lifo.gr."><meta property="og:image" content="../images/lifo-share.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Η σελίδα δε βρέθηκε"><meta name="twitter:card" content="summary"><meta name="twitter:description" content="Όλες οι ειδήσεις, τα τελευταία νέα και η έκτακτη επικαιρότητα καθώς και ό,τι είναι νέο και σημαντικό στην κοινωνία, την πόλη, τις τέχνες και την διασκέδαση στο Lifo.gr."><meta name="twitter:site" content="@lifomag"><meta name="twitter:title" content="Η σελίδα δε βρέθηκε | LiFO"><meta name="twitter:url" content="https://www.lifo.gr/images/feed.svg"><meta name="twitter:image:alt" content="Η σελίδα δε βρέθηκε"><meta name="twitter:image:height" content="1200"><meta name="twitter:image:width" content="630"><meta name="twitter:image" content="https://www.lifo.gr/images/lifo-share.png"><script type="application/ld+json">{
+"@context": "https://schema.org",
+"@graph": [
+{
+"publisher": {
+"@id": "https://www.lifo.gr/",
+"name": "LiFO.gr",
+"url": "https://www.lifo.gr/",
+"sameAs": [
+"https://www.facebook.com/lifo.mag",
+"https://www.instagram.com/lifomag/",
+"https://www.instagram.com/lifomag/"
+],
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.lifo.gr/images/lifo-logo-amp2.png",
+"width": "120",
+"height": "60"
+}
+}
+},
+{
+"@type": "Organization",
+"additionalType": "NewsMediaOrganization",
+"@id": "https://www.lifo.gr",
+"description": "Εβδομαδιαίο free press που διανέμεται σε επιλεγμένα σημεία σε Αθήνα και Θεσσαλονίκη. Δημιούργημα του δημοσιογράφου Στάθη Τσαγκαρουσιάνου, κυκλοφορεί από τον Δεκέμβριο του 2005.",
+"name": "LiFO",
+"sameAs": [
+"https://www.facebook.com/lifo.mag",
+"https://twitter.com/lifomag",
+"https://instagram.com/lifomag"
+],
+"url": "https://www.lifo.gr",
+"telephone": "210 3254290",
+"image": {
+"@type": "ImageObject",
+"url": "https://www.lifo.gr/images/lifo-logo-amp2.png",
+"width": "120",
+"height": "60"
+},
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.lifo.gr/images/lifo-logo-amp2.png",
+"width": "120",
+"height": "60"
+},
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Βουλής 22",
+"addressLocality": "Σύνταγμα",
+"postalCode": "10563",
+"addressCountry": "Ελλάδα"
+}
+},
+{
+"@type": "WebPage",
+"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"name": "Home",
+"item": "https://www.lifo.gr/"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"name": "Η σελίδα δε βρέθηκε",
+"item": "https://www.lifo.gr/system/404"
+}
+]
+},
+"isAccessibleForFree": "True"
+},
+{
+"@type": "WebSite",
+"@id": "https://www.lifo.gr/",
+"name": "LiFO",
+"url": "https://www.lifo.gr/",
+"publisher": {
+"@type": "Organization",
+"name": "LiFO",
+"url": "https://www.lifo.gr/",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.lifo.gr/images/logo.png",
+"width": "120",
+"height": "60"
+}
+}
+}
+]
+}</script><meta http-equiv="x-ua-compatible" content="ie=edge"><title>Η σελίδα δε βρέθηκε | LiFO</title><link rel="dns-prefetch" href="//www.googletagservices.com/"><link rel="dns-prefetch" href="//partner.googleadservices.com/"><link rel="dns-prefetch" href="//cdn.orangeclickmedia.com/"><link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net/"><link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="dns-prefetch" href="//stats.g.doubleclick.net/"><link rel="dns-prefetch" href="//bs.serving-sys.com/"><link rel="dns-prefetch" href="//tpc.googlesyndication.com/"><link rel="dns-prefetch" href="//obj.adman.gr/"><meta name="smartbanner:title" content="LiFO"><meta name="smartbanner:author" content="ΔΥΟΔΕΚΑ Α.Ε."><meta name="smartbanner:price" content="ΔΩΡΕΑΝ"><meta name="smartbanner:price-suffix-apple" content=" - στο App Store"><meta name="smartbanner:price-suffix-google" content=" - στο Google Play"><meta name="smartbanner:icon-apple" content="/themes/custom/bootstrap_sass/xassets/images/smartbanner-logo.svg"><meta name="smartbanner:icon-google" content="/themes/custom/bootstrap_sass/xassets/images/smartbanner-logo.svg"><meta name="smartbanner:button" content="ΛΗΨΗ"><meta name="smartbanner:button-url-apple" content="https://apps.apple.com/sg/app/lifo/id1673713585"><meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=gr.lifo.app"><meta name="smartbanner:enabled-platforms" content="android,ios"><meta name="smartbanner:close-label" content="Close"><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/awsome.ttf?taf7si" as="font" type="font/ttf" crossorigin><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/original-fedra/fesagrnotf-webfont.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/LifoEgyptianWeb.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/original-fedra/fesagrmdtf-webfont.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/original-fedra/FedraSansGreek-BookTF.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/hgfbk__-webfont.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="/themes/custom/bootstrap_sass/fonts/hgfth___webfont.woff" as="font" type="font/woff" crossorigin><script type="text/javascript">
+window._xadsLoaded = false;
+function loadAds() {
+if (!window._xadsLoaded) {
+loadScript('//cdn.orangeclickmedia.com/tech/v3.lifo.gr/ocm.js');
+loadScript('//securepubads.g.doubleclick.net/tag/js/gpt.js');
+loadScript('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js');
+loadScript('/themes/custom/bootstrap_sass/js/adblock.detect.js?v=1.0.0');
+loadScript('/themes/custom/bootstrap_sass/xassets/js/xads.js?v=1.0.0');
+loadScript('https://apps-cdn.relevant-digital.com/static/tags/1137447286956292940.js');
+loadAdman();
+loadOneSignal();
+if (typeof window.requestNonPersonalizedAds !== 'undefined') {
+googletag.cmd.push(function () {
+googletag.pubads().setRequestNonPersonalizedAds(window.requestNonPersonalizedAds);
+});
+}
+window._xadsLoaded = true;
+}
+}
+function loadScript(src) {
+var script = document.createElement('script');
+script.src = src;
+document.head.appendChild(script);
+}
+function loadAdman() {
+var script = document.createElement('script');
+script.src = 'https://static.adman.gr/adman.js';
+document.head.appendChild(script);
+window.AdmanQueue=window.AdmanQueue||[];
+AdmanQueue.push(function(){
+Adman.adunit({id:475,h:'https://x.grxchange.gr',inline:true})
+});
+}
+function loadOneSignal() {
+loadScript('//cdn.onesignal.com/sdks/OneSignalSDK.js');
+setTimeout(function() {
+var OneSignal = window.OneSignal || [];
+OneSignal.push(function() {
+OneSignal.init({
+appId: "5c2de52e-202f-46d2-854a-c93489c04d14",
+safari_web_id: "web.onesignal.auto.3db514d6-c75f-4a27-ad99-adae19a9a814",
+subdomainName: "lifo",
+promptOptions: {
+actionMessage: "Θέλετε να λαμβάνετε πρώτοι ενημερώσεις για ό,τι συμβαίνει από το lifo.gr;",
+acceptButtonText: "ΝΑΙ",
+cancelButtonText: "Όχι",
+},
+});
+OneSignal.showSlidedownPrompt();
+});
+}, 2000);
+}
+window.addEventListener('load', function () {
+var botPattern = "(googlebot\/|bot|Googlebot-Mobile|Googlebot-Image|Google favicon|Mediapartners-Google|Chrome-Lighthouse|bingbot)";
+var re = new RegExp(botPattern, 'i');
+var userAgent = navigator.userAgent;
+if (!re.test(userAgent)) {
+var host = 'lifo.gr';
+var element = document.createElement('script');
+var firstScript = document.getElementsByTagName('script')[0];
+var url = 'https://cmp.quantcast.com'
+.concat('/choice/', 'sp3rHHuKshJjA', '/', host, '/choice.js?tag_version=V2');
+var uspTries = 0;
+var uspTriesLimit = 3;
+element.async = true;
+element.type = 'text/javascript';
+element.src = url;
+firstScript.parentNode.insertBefore(element, firstScript);
+function makeStub() {
+var TCF_LOCATOR_NAME = '__tcfapiLocator';
+var queue = [];
+var win = window;
+var cmpFrame;
+function addFrame() {
+var doc = win.document;
+var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+if (!otherCMP) {
+if (doc.body) {
+var iframe = doc.createElement('iframe');
+iframe.style.cssText = 'display:none';
+iframe.name = TCF_LOCATOR_NAME;
+doc.body.appendChild(iframe);
+} else {
+setTimeout(addFrame, 5);
+}
+}
+return !otherCMP;
+}
+function tcfAPIHandler() {
+var gdprApplies;
+var args = arguments;
+if (!args.length) {
+return queue;
+} else if (args[0] === 'setGdprApplies') {
+if (
+args.length > 3 &&
+args[2] === 2 &&
+typeof args[3] === 'boolean'
+) {
+gdprApplies = args[3];
+if (typeof args[2] === 'function') {
+args[2]('set', true);
+}
+}
+} else if (args[0] === 'ping') {
+var retr = {
+gdprApplies: gdprApplies,
+cmpLoaded: false,
+cmpStatus: 'stub'
+};
+if (typeof args[2] === 'function') {
+args[2](retr);
+}
+} else {
+if(args[0] === 'init' && typeof args[3] === 'object') {
+args[3] = { ...args[3], tag_version: 'V2' };
+}
+queue.push(args);
+}
+}
+function postMessageEventHandler(event) {
+var msgIsString = typeof event.data === 'string';
+var json = {};
+try {
+if (msgIsString) {
+json = JSON.parse(event.data);
+} else {
+json = event.data;
+}
+} catch (ignore) {}
+var payload = json.__tcfapiCall;
+if (payload) {
+window.__tcfapi(
+payload.command,
+payload.version,
+function(retValue, success) {
+var returnMsg = {
+__tcfapiReturn: {
+returnValue: retValue,
+success: success,
+callId: payload.callId
+}
+};
+if (msgIsString) {
+returnMsg = JSON.stringify(returnMsg);
+}
+if (event && event.source && event.source.postMessage) {
+event.source.postMessage(returnMsg, '*');
+}
+},
+payload.parameter
+);
+}
+}
+while (win) {
+try {
+if (win.frames[TCF_LOCATOR_NAME]) {
+cmpFrame = win;
+break;
+}
+} catch (ignore) {}
+if (win === window.top) {
+break;
+}
+win = win.parent;
+}
+if (!cmpFrame) {
+addFrame();
+win.__tcfapi = tcfAPIHandler;
+win.addEventListener('message', postMessageEventHandler, false);
+}
+};
+makeStub();
+var uspStubFunction = function() {
+var arg = arguments;
+if (typeof window.__uspapi !== uspStubFunction) {
+setTimeout(function() {
+if (typeof window.__uspapi !== 'undefined') {
+window.__uspapi.apply(window.__uspapi, arg);
+}
+}, 500);
+}
+};
+var checkIfUspIsReady = function() {
+uspTries++;
+if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+console.warn('USP is not accessible');
+} else {
+clearInterval(uspInterval);
+}
+};
+if (typeof window.__uspapi === 'undefined') {
+window.__uspapi = uspStubFunction;
+var uspInterval = setInterval(checkIfUspIsReady, 6000);
+}
+__tcfapi('addEventListener', 2, function(tcData, success) {
+if (success && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'useractioncomplete')) {
+if (!tcData.gdprApplies) {
+loadAds();
+} else {
+var hasPurposeOneConsent = tcData.purpose.consents['1'];
+var hasGoogleConsent = false;
+window.requestNonPersonalizedAds = 1;
+if (hasPurposeOneConsent) {
+if (tcData.vendor.consents['755'] && tcData.vendor.legitimateInterests['755']) {
+if ((tcData.purpose.consents['2'] || tcData.purpose.legitimateInterests['2']) && (tcData.purpose.consents['7'] || tcData.purpose.legitimateInterests['7']) && (tcData.purpose.consents['9'] || tcData.purpose.legitimateInterests['9']) && (tcData.purpose.consents['10'] || tcData.purpose.legitimateInterests['10'])) {
+hasGoogleConsent = true;
+if ((tcData.purpose.consents['3'] || tcData.purpose.legitimateInterests['3']) && (tcData.purpose.consents['4'] || tcData.purpose.legitimateInterests['4'])) {
+window.requestNonPersonalizedAds = 0;
+}
+}
+}
+if (hasGoogleConsent) {
+loadAds();
+}
+}
+}
+}
+});
+}
+});
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TQM6NLQ');</script><link rel="stylesheet" media="all" href="../css/css_EMO8Rc1479YwTWHeZEKgofbkiazF4o8lHF8vi0L5rRU.css"><link rel="stylesheet" media="all" href="../css/css_G0xrJye1g-QaUcIlRVnohz5cPEheVxZHgn_1p4wPS6E.css"> <script>
+//set if cookiebot exists on the page
+window.cookiebotActive = true;
+console.log("%cLiFO", "font-size: 31px; font-family: impact, arial, helvetica, sans-serif; font-weight: bold; color: #ff0000;");
+</script><script>
+function lazyLoadScript(src) {
+return new Promise(function (resolve, reject) {
+var script = document.createElement("script");
+script.onload = function () {
+resolve();
+};
+script.onerror = function () {
+reject();
+};
+script.defer = true;
+script.src = src;
+document.body.appendChild(script);
+});
+}
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var layout = '';
+var isBlogTemplate = false;
+var isDetails = false;
+var adsSection = '';
+var adsCategory = '';
+var adsSubCategory = '';
+var adsItemId = '';
+var adsTopicId = '';
+var adsTags = '';
+var adsPage = '0';
+var adsLayout = '';
+var adsSafety = '';
+var adsDWord = '0';
+var adsFeaturedVideo = '0';
+var adsType = '';
+const currentLink = 'https://www.lifo.gr/system/404';
+window.addEventListener('load', function () {
+function setBehaviors() {
+if ( typeof Drupal !== 'undefined'  &&
+typeof Drupal.behaviors.bootstrap_barrio_subtheme !== 'undefined'  &&
+!Drupal.behaviors.bootstrap_barrio_subtheme.hasOwnProperty("attach") &&
+typeof initializeAllDrupal !== "undefined" &&
+initializeAllDrupal instanceof Function
+) {
+initializeAllDrupal($, Drupal);
+} else {
+document.addEventListener("DOMContentLoaded", setBehaviors);
+}
+if ( typeof Drupal !== 'undefined') {
+Drupal.behaviors.bootstrap_barrio_subtheme.attach();
+}
+}
+setBehaviors();
+},
+{passive: true}
+);
+</script><script type="text/javascript">
+window.addEventListener('load', function () {
+var botPattern = "(googlebot\/|bot|Googlebot-Mobile|Googlebot-Image|Google favicon|Mediapartners-Google|Chrome-Lighthouse|bingbot)";
+var re = new RegExp(botPattern, 'i');
+var userAgent = navigator.userAgent;
+if (!re.test(userAgent)) {
+__tcfapi("addEventListener", 2, (function (e, t) {
+if (t && ("useractioncomplete" === e.eventStatus || "tcloaded" === e.eventStatus)) {
+if (!e.purpose.consents[1]) return;
+loadScript('https://pghub.io/js/pandg-sdk.js');
+var n = e.gdprApplies ? 1 : 0;
+var metadata = {
+gdpr: n,
+gdpr_consent: e.tcString,
+ccpa: null,
+bp_id: "dyodeka",
+};
+var config = {
+name: "P&G",
+pixelUrl: "https://pandg.tapad.com/tag"
+};
+setTimeout(function () {
+var tagger = Tapad.init(metadata, config);
+var data = {
+category: adsCategory,
+};
+tagger.sync(data);
+}, 2 * 1000);
+}
+}));
+}
+});
+</script> <script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag.pubads().setTargeting("Section", adsSection);
+googletag.pubads().setTargeting("Category", adsCategory);
+googletag.pubads().setTargeting("Sub_category", adsSubCategory);
+googletag.pubads().setTargeting("Item_Id", adsItemId);
+googletag.pubads().setTargeting("Topics_Id", adsTopicId);
+googletag.pubads().setTargeting("Tags", adsTags);
+googletag.pubads().setTargeting("Page", adsPage);
+googletag.pubads().setTargeting("Layout", adsLayout);
+googletag.pubads().setTargeting("Skin", window.skinSize);
+googletag.pubads().setTargeting("Ad_safety", adsSafety);
+googletag.pubads().setTargeting("Has_Featured_Video", adsFeaturedVideo);
+googletag.pubads().setTargeting("Type", adsType);
+googletag.pubads().disableInitialLoad();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script><style>
+.adv {
+text-align: center;
+line-height: 0;
+margin: 20px auto;
+}
+.adv--full {
+margin: 20px 0;
+}
+.adv--sticky {
+height: 600px;
+}
+.adv--sticky > div {
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+}
+.adv--labeled {
+position: relative;
+margin-top: 30px;
+background: #e1e1e1;
+}
+.adv--labeled:before {
+content: 'ΔΙΑΦΗΜΙΣΗ';
+position: absolute;
+top: -20px;
+left: 0;
+font-size: 11px;
+line-height: 14px;
+width: 100%;
+text-align: center;
+}
+.adv--labeled.adv--full {
+margin-top: 40px;
+}@media only screen and (max-width: 768px) {
+.adv--desk {
+display: none;
+}
+}@media only screen and (min-width: 769px) {
+.adv--mob {
+display: none;
+}
+}
+</style></head><body class="layout-no-sidebars path-images"><script type="text/javascript" data-cookieconsent="ignore">
+/*GOOGLE ANALYTICS*/
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-9549611-1', {
+cookieDomain: 'lifo.gr',
+legacyCookieDomain: 'lifo.gr'
+});
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+</script><a href="#main-content" class="visually-hidden focusable skip-link"> Παράκαμψη προς το κυρίως περιεχόμενο </a><div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>  <div id="bs-sizer"><div class="d-block d-sm-none d-md-none d-lg-none d-xl-none d-xxl-none" data-size="xs"></div><div class="d-none d-sm-block d-md-none d-lg-none d-xl-none d-xxl-none" data-size="sm"></div><div class="d-none d-sm-none d-md-block d-lg-none d-xl-none d-xxl-none" data-size="md"></div><div class="d-none d-sm-none d-md-none d-lg-block d-xl-none d-xxl-none" data-size="lg"></div><div class="d-none d-sm-none d-md-none d-lg-none d-xl-block d-xxl-none" data-size="xl"></div><div class="d-none d-sm-none d-md-none d-lg-none d-xl-none d-xxl-block" data-size="xxl"></div></div><header id="header" class="header" role="banner" aria-label="Site header"><div class="d-block d-lg-none fixed-top-advert"></div> <nav id="main-nav" role="navigation" class="block block-menu navigation main-nav inner-menu"><div class="position-absolute d-flex burger align-items-center"> <button class="hamburger hamburger--slider menu-toggle" type="button" id="menu-toggle"> <span class="hamburger-box"> <span class="hamburger-inner"></span> </span> </button></div><div class="position-absolute lifologo"> <a href="/" class="d-block normallifo" title="LIFO.GR"><div class="lifo-logo-bar"></div> </a><div class="d-flex guidelifo roboto fw-300-v fs-10-v lh-rel-1-v align-items-center"> <a href="/" class="guidelifo-home" title="Αρχική Σελίδα"> </a> <a href="/guide" title="CITY GUIDE"> CITY GUIDE </a></div> <a href="/recipes" class="d-flex recipelifo roboto fw-300-v fs-10-v lh-rel-1-v align-items-center" title="Συνταγές"> ΣΥΝΤΑΓΕΣ </a></div><div class="m-0 p-0 ls-narrow egyptian fs-9-v lh-8-v d-flex d-lg-none date-mobile-menu"><span></span><span class="month"></span><span></span></div><div class="position-absolute d-flex useraccount"> <button class="account account-toggle" type="button" id="account-toggle"> <i class="fa fa-user-circle-o"></i> </button></div><div class="position-absolute d-flex searchbox"><div class="search-box-inner"><div class="close_icon"><i class="fa fa-times" aria-hidden="true"></i></div><form action="/search" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form form-row" data-drupal-form-fields="edit-keyword"><fieldset class="js-form-item js-form-type-search form-type-search js-form-item-keyword form-item-keyword form-no-label form-group"> <label for="edit-keyword" class="sr-only">Αναζήτηση</label> <input title="Γράψτε τους όρους αναζήτησης" placeholder="Αναζήτηση" data-drupal-selector="edit-keyword" type="search" id="edit-keyword" name="keyword" value size="15" maxlength="128" class="form-search w-100"></fieldset> <button data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value class="button js-form-submit form-submit btn btn-primary"></button></form></div> <button class="searchglass search-toggle d-none d-lg-flex align-items-center" type="button" id="search-toggle"> <i class="fa fa-search"></i> </button></div><div class="container-fluid p-0 titlebar"><div class="row no-gutters h-100-lg"><div class="col-12 p-0 text-center h-100-lg d-flex flex-column justify-content-center"><div class="titlebar-content m-auto text-center"><div class="m-0 p-0 fedranormal fs-3-v lh-rel-1-v"></div></div></div></div></div><div class="container-fluid p-0 custombar position-absolute position-lg-relative"><div class="row no-gutters h-100-lg"><div class="col-12 p-0 text-center h-100-lg d-flex flex-column justify-content-center"><div class="custombar-content m-auto text-center"> <a href="/" class="d-inline-block"><div class="lifo-logo small plain align-middle"></div></a></div></div></div></div><div class="container-fluid p-0 fullbar h-100-lg"><div class="row no-gutters"><div class="col-12 p-0"><div class="container p-0 menu-contain"><div class="row no-gutters"><div class="col-12 col-lg-2 text-left text-lg-right nav-sidebar pr-3 order-1 order-lg-0">   <nav role="navigation" id="block-mainsidemenu" class="settings-tray-editable block block-menu navigation menu--main-side-menu" data-drupal-settingstray="editable"> <div class="side-nav-links"> <a href="https://www.lifoshop.gr/" target="_blank" class="side-nav-link">LIFO SHOP</a> <br> <a href="/newsletter/subscribe" class="side-nav-link" title="Εγγραφή στο newsletter της LiFO" data-drupal-link-system-path="node/990352">NEWSLETTER</a> <br> <a href="https://mikropragmata.lifo.gr/" target="_blank" class="side-nav-link">ΜΙΚΡΟΠΡΑΓΜΑΤΑ</a> <br> <a href="/thegoodlifo" class="side-nav-link" data-drupal-link-system-path="taxonomy/term/21850">THE GOOD LIFO</a> <br> <a href="/lifoland" class="side-nav-link" data-drupal-link-system-path="taxonomy/term/21865">LIFOLAND</a> <br> <a href="/guide" class="side-nav-link" data-drupal-link-system-path="taxonomy/term/21864">CITY GUIDE</a> <br> <a href="https://ampa.lifo.gr/" target="_blank" class="side-nav-link">ΑΜΠΑ</a> <br></div> </nav>  <div region="latest_issue" class="element-container-wrapper"><div class="views-row"><div class="mt-0 latest-issue"> <a href="/issues/view/789" class="side-nav-link">PRINT</a><br> <a href="/issues/view/789" class="d-inline-block w-75"> <img class=" img-fluid image-style-lifo-v2-very-small-0-78" src="../images/789_COVER.jpg" width="138" height="177" alt="LIFO ΤΕΥΧΟΣ 789" loading="lazy"> </a></div></div> </div> </div><div class="col-12 col-lg-8 order-0 order-lg-1"><div class="container-fluid p-0">   <div class="row no-gutters primary-menu pl-lg-2"><div class="top-level nav-item menu-item--expanded"><div class="sub-wrapper"><div class="has-arrow "> <a href="/now" class="blue-grad py-4 py-lg-0 px-3 nav-link" title="ΕΙΔΗΣΕΙΣ" data-drupal-link-system-path="taxonomy/term/21806">ΕΙΔΗΣΕΙΣ</a> <i class="fa fa-angle-down d-block d-lg-none blue-grad"></i></div><div class="sub-items"> <a href="/now" class="d-block d-lg-none sub-link">ΚΕΝΤΡΙΚΗ</a> <a href="/now/greece" class="sub-link" data-drupal-link-system-path="taxonomy/term/21807">Ελλάδα</a> <a href="/now/world" class="sub-link" data-drupal-link-system-path="taxonomy/term/21808">Διεθνή</a> <a href="/now/politics" class="sub-link" data-drupal-link-system-path="taxonomy/term/21809">Πολιτική</a> <a href="/now/economy" class="sub-link" data-drupal-link-system-path="taxonomy/term/21810">Οικονομία</a> <a href="/now/entertainment" class="sub-link" data-drupal-link-system-path="taxonomy/term/21815">Πολιτισμός</a> <a href="/now/sport" class="sub-link" data-drupal-link-system-path="taxonomy/term/21813">Αθλητισμός</a> <a href="/now/perivallon" class="sub-link" data-drupal-link-system-path="taxonomy/term/21816">Περιβάλλον</a> <a href="/now/media" class="sub-link" data-drupal-link-system-path="taxonomy/term/21812">TV &amp; Media</a> <a href="/now/tech-science" class="sub-link" data-drupal-link-system-path="taxonomy/term/21811">Tech &amp; Science</a> <a href="/european-lifo" class="euro-gen sub-link" data-drupal-link-system-path="taxonomy/term/30491">European Lifo</a></div></div></div><div class="top-level nav-item menu-item--expanded"><div class="sub-wrapper"><div class="has-arrow "> <a href="/culture" class="yellow-grad py-4 py-lg-0 px-3 nav-link" title="CULTURE" data-drupal-link-system-path="taxonomy/term/21821">CULTURE</a> <i class="fa fa-angle-down d-block d-lg-none yellow-grad"></i></div><div class="sub-items"> <a href="/culture" class="d-block d-lg-none sub-link">ΚΕΝΤΡΙΚΗ</a> <a href="/culture/cinema" class="sub-link" data-drupal-link-system-path="taxonomy/term/21822">Οθόνες</a> <a href="/culture/music" class="sub-link" data-drupal-link-system-path="taxonomy/term/21823">Μουσική</a> <a href="/culture/theatro" class="sub-link" data-drupal-link-system-path="taxonomy/term/21824">Θέατρο</a> <a href="/culture/eikastika" class="sub-link" data-drupal-link-system-path="taxonomy/term/21825">Εικαστικά</a> <a href="/culture/vivlio" class="sub-link" data-drupal-link-system-path="taxonomy/term/21826">Βιβλίο</a> <a href="/culture/arxaiologia" class="sub-link" data-drupal-link-system-path="taxonomy/term/21827">Αρχαιολογία &amp; Ιστορία</a> <a href="/culture/design" class="sub-link" data-drupal-link-system-path="taxonomy/term/21837">Design</a> <a href="/culture/photography" class="sub-link" data-drupal-link-system-path="taxonomy/term/22545">Φωτογραφία</a></div></div></div><div class="top-level nav-item menu-item--expanded"><div class="sub-wrapper"><div class="has-arrow "> <a href="/apopseis" class="purple-grad py-4 py-lg-0 px-3 nav-link" title="ΑΠΟΨΕΙΣ" data-drupal-link-system-path="apopseis">ΑΠΟΨΕΙΣ</a> <i class="fa fa-angle-down d-block d-lg-none purple-grad"></i></div><div class="sub-items"> <a href="/apopseis" class="d-block d-lg-none sub-link">ΚΕΝΤΡΙΚΗ</a> <a href="/apopseis/idees" class="sub-link" data-drupal-link-system-path="taxonomy/term/21828">Ιδέες</a> <a href="/stiles" class="sub-link" data-drupal-link-system-path="taxonomy/term/21003">Στήλες</a> <a href="/stiles/optiki-gonia" class="sub-link" data-drupal-link-system-path="taxonomy/term/30941">Οπτική Γωνία</a> <a href="/guest-editors" class="sub-link" data-drupal-link-system-path="taxonomy/term/21019">Guests</a> <a href="/apopseis/epistoles" class="sub-link" data-drupal-link-system-path="taxonomy/term/29479">Επιστολές</a></div></div></div><div class="top-level nav-item menu-item--expanded"><div class="sub-wrapper"><div class="has-arrow "> <a href="/tropos-zois" class="revblue-grad py-4 py-lg-0 px-3 nav-link" title="ΤΡΟΠΟΣ ΖΩΗΣ" data-drupal-link-system-path="taxonomy/term/21829">ΤΡΟΠΟΣ ΖΩΗΣ</a> <i class="fa fa-angle-down d-block d-lg-none revblue-grad"></i></div><div class="sub-items"> <a href="/tropos-zois" class="d-block d-lg-none sub-link">ΚΕΝΤΡΙΚΗ</a> <a href="/tropos-zois/fashion" class="sub-link" data-drupal-link-system-path="taxonomy/term/21836">Μόδα &amp; Στυλ</a> <a href="/tropos-zois/gefsi" class="sub-link" data-drupal-link-system-path="taxonomy/term/21830">Γεύση</a> <a href="/tropos-zois/health-fitness" class="sub-link" data-drupal-link-system-path="taxonomy/term/21832">Υγεία &amp; Σώμα</a> <a href="/tropos-zois/travel" class="sub-link" data-drupal-link-system-path="taxonomy/term/21831">Ταξίδια</a> <a href="/recipes" class="sub-link" data-drupal-link-system-path="recipes">Συνταγές</a> <a href="/tropos-zois/living" class="sub-link" data-drupal-link-system-path="taxonomy/term/21834">Living</a> <a href="/tropos-zois/urban" class="sub-link" data-drupal-link-system-path="taxonomy/term/21004">Urban</a> <a href="/tropos-zois/shopping" class="sub-link" data-drupal-link-system-path="taxonomy/term/21833">Αγορά</a></div></div></div><div class="top-level nav-item menu-item--expanded"><div class="sub-wrapper"><div class="has-arrow "> <a href="/podcasts" class="red-grad py-4 py-lg-0 px-3 nav-link" data-drupal-link-system-path="taxonomy/term/27673">PODCASTS</a> <i class="fa fa-angle-down d-block d-lg-none red-grad"></i></div><div class="sub-items"> <a href="/podcasts" class="d-block d-lg-none sub-link">ΚΕΝΤΡΙΚΗ</a> <a href="/podcasts/wraia-pragmata" class="sub-link" data-drupal-link-system-path="taxonomy/term/29214">Μικροπράγματα</a> <a href="/podcasts/fake-news" class="sub-link" data-drupal-link-system-path="taxonomy/term/49863">Fake News</a> <a href="/podcasts/rota-me-iti-thes" class="sub-link" data-drupal-link-system-path="taxonomy/term/50067">Ρώτα με ό,τι θες</a> <a href="/podcasts/alithina-egklimata" class="sub-link" data-drupal-link-system-path="taxonomy/term/29474">Αληθινά Εγκλήματα</a> <a href="/podcasts/istoria-mias-polis" class="sub-link" data-drupal-link-system-path="taxonomy/term/29765">Ιστορία μιας πόλης</a> <a href="/podcasts/anna-k" class="sub-link" data-drupal-link-system-path="taxonomy/term/29210">Άννα Κ.</a> <a href="/podcasts/hxhtika-arthra" class="sub-link" data-drupal-link-system-path="taxonomy/term/28007">Ηχητικά Άρθρα</a> <a href="/podcasts/originals" class="sub-link" data-drupal-link-system-path="taxonomy/term/29212">Ο επόμενος κόσμος</a> <a href="/podcasts/the-review" class="sub-link" data-drupal-link-system-path="taxonomy/term/41604">The Review</a> <a href="/podcasts/lifo-politics" class="sub-link" data-drupal-link-system-path="taxonomy/term/30682">LiFO Politics</a> <a href="/podcasts/vivlia-kai-suggrafeis" class="sub-link" data-drupal-link-system-path="taxonomy/term/30218">Βιβλία και Συγγραφείς</a> <a href="/podcasts/meres" class="sub-link" data-drupal-link-system-path="taxonomy/term/29209">Μέρες</a></div></div></div><div class="top-level nav-item menu-item--expanded"><div class="sub-wrapper"><div class="has-arrow plus"> <span class="green py-4 py-lg-0 px-3 PLUS nav-link menu-toggle" title="PLUS">Plus</span> <i class="fa fa-angle-down d-block d-lg-none red-grad"></i></div><div class="sub-items"> <a href="/articles" class="sub-link" data-drupal-link-system-path="taxonomy/term/21817">Θέματα</a> <a href="/prosopa/synenteyjeis" class="sub-link" data-drupal-link-system-path="taxonomy/term/21819">Συνεντεύξεις</a> <a href="/videos" class="sub-link" data-drupal-link-system-path="taxonomy/term/21846">Videos</a> <a href="/topics" class="sub-link" data-drupal-link-system-path="taxonomy/term/22632">Αφιερώματα</a> <a href="https://www.lifo.gr/zodia" class="sub-link">Ζώδια</a> <a href="https://www.lifo.gr/lifoland/confessions" class="sub-link">Εξομολογήσεις</a> <a href="/blogs" class="sub-link" data-drupal-link-system-path="taxonomy/term/21005">Blogs</a> <a href="/proswpa/athenians" class="sub-link" data-drupal-link-system-path="taxonomy/term/21820">Οι Αθηναίοι</a> <a href="/prosopa/apolies" class="sub-link" data-drupal-link-system-path="taxonomy/term/20995">Απώλειες</a> <a href="/lgbtqi" class="sub-link" data-drupal-link-system-path="taxonomy/term/21839">Lgbtqi+</a> <a href="/stiles/epiloges" class="sub-link" data-drupal-link-system-path="taxonomy/term/39227">Επιλογές</a></div></div></div></div> </div></div><div class="col-12 col-lg-2 order-2 order-lg-2"></div><div class="col-12 col-lg-2 order-3 order-lg-3"></div><div class="col-12 col-lg-8 order-4 order-lg-4 d-none"><div class="pl-4 text-center text-lg-left menu-logo"> <a href="/" title="LiFO home"><div class="lifo-logo extralarge"></div> </a></div><div class="pl-4 fa-icons header-social mt-3 mb-5"> <a rel="nofollow" title="Η LIFO στο Facebook" href="https://www.facebook.com/lifo.mag" target="_blank" class="d-inline-block mr-5"> <i class="fa fa-facebook-f"></i> </a> <a rel="nofollow" title="H LIFO στο Instagram" href="https://instagram.com/lifomag" target="_blank" class="d-inline-block mr-5"> <i class="fa fa-instagram"></i> </a> <a rel="nofollow" title="H LIFO στο Twitter" href="https://twitter.com/lifomag" target="_blank" class="d-inline-block mr-5"> <i class="fa fa-twitter"></i> </a></div></div></div></div></div></div></div> </nav> </header><style>
+.login-box {
+z-index: 9999;
+top: 85px;
+}@media screen and (max-width: 1124px) {
+.login-box {
+z-index: 9999;
+top: 219px;
+position: absolute;
+}
+}
+</style><div class="login-box"></div><span data-quickedit-entity-id="block_content/28"></span><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="bgdas" id="1x1_out"><script type="text/javascript">
+if (window.innerWidth >= 1200) {
+window.addEventListener('googletagloaded', (evt) => {
+googletag.cmd.push(function() { googletag.display('1x1_out'); });
+});
+}
+</script></div></div> <div class="container-fluid"> <section class="row region region-above-master-wrapper"> <style>
+.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}.owl-carousel{display:none;width:100%;z-index:1}.owl-carousel .owl-stage{position:relative;-ms-touch-action:pan-Y;touch-action:manipulation;-moz-backface-visibility:hidden}.owl-carousel .owl-stage:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel .owl-stage-outer{position:relative;overflow:hidden;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-item,.owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}.owl-carousel .owl-item{min-height:1px;float:left;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}.owl-carousel .owl-item img{display:block;width:100%}.owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{display:none}.no-js .owl-carousel,.owl-carousel.owl-loaded{display:block}.owl-carousel .owl-dot,.owl-carousel .owl-nav .owl-next,.owl-carousel .owl-nav .owl-prev{cursor:pointer;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel .owl-nav button.owl-next,.owl-carousel .owl-nav button.owl-prev,.owl-carousel button.owl-dot{background:0 0;color:inherit;border:none;padding:0!important;font:inherit}.owl-carousel.owl-loading{opacity:0;display:block}.owl-carousel.owl-hidden{opacity:0}.owl-carousel.owl-refresh .owl-item{visibility:hidden}.owl-carousel.owl-drag .owl-item{-ms-touch-action:pan-y;touch-action:pan-y;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel.owl-grab{cursor:move;cursor:grab}.owl-carousel.owl-rtl{direction:rtl}.owl-carousel.owl-rtl .owl-item{float:right}.owl-carousel .animated{animation-duration:1s;animation-fill-mode:both}.owl-carousel .owl-animated-in{z-index:0}.owl-carousel .owl-animated-out{z-index:1}.owl-carousel .fadeOut{animation-name:fadeOut}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.owl-height{transition:height .5s ease-in-out}.owl-carousel .owl-item .owl-lazy{opacity:0;transition:opacity .4s ease}.owl-carousel .owl-item .owl-lazy:not([src]),.owl-carousel .owl-item .owl-lazy[src^=""]{max-height:0}.owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}.owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(../images/owl.video.play.png) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}.owl-carousel .owl-video-play-icon:hover{-ms-transform:scale(1.3,1.3);transform:scale(1.3,1.3)}.owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}.owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}.owl-carousel .owl-video-frame{position:relative;z-index:1;height:100%;width:100%}
+.owl-theme .owl-dots,.owl-theme .owl-nav{text-align:center;-webkit-tap-highlight-color:transparent}.owl-theme .owl-nav{margin-top:10px}.owl-theme .owl-nav [class*=owl-]{color:#FFF;font-size:14px;margin:5px;padding:4px 7px;background:#D6D6D6;display:inline-block;cursor:pointer;border-radius:3px}.owl-theme .owl-nav [class*=owl-]:hover{background:#869791;color:#FFF;text-decoration:none}.owl-theme .owl-nav .disabled{opacity:.5;cursor:default}.owl-theme .owl-nav.disabled+.owl-dots{margin-top:10px}.owl-theme .owl-dots .owl-dot{display:inline-block;zoom:1}.owl-theme .owl-dots .owl-dot span{width:10px;height:10px;margin:5px 7px;background:#D6D6D6;display:block;-webkit-backface-visibility:visible;transition:opacity .2s ease;border-radius:30px}.owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span{background:#869791}
+</style> </section></div><div class="master-content-wrapper"> <div data-drupal-messages-fallback class="hidden"></div><div id="block-adblocker" class="settings-tray-editable block block-block-content block-block-content60498a6a-78f2-4dd0-8e5e-e2bafe70c3a9" data-drupal-settingstray="editable"><div class="content"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div id="adblocker"><script type="text/javascript">
+window.addEventListener('googletagloaded', (evt) => { googletag.cmd.push(function() { googletag.display('adblocker'); }); });
+</script></div></div></div></div>Η σελίδα που ζητήσατε δεν μπόρεσε να βρεθεί.</div><div class="w-1000 above-footer"><div class="bgdas-holder-footer"></div> <div class="views-element-container settings-tray-editable block block-views block-views-blockcommon-article-blocks-block-2" id="block-views-block-common-article-blocks-block-2" data-drupal-settingstray="editable"><div class="content"> <div region="above_footer" class="element-container-wrapper"><style type="text/css">
+.counter {
+counter-reset: count;
+}.common-block-counter:before {
+content: counter(count);
+counter-increment: count;
+margin-right: 0.4rem;
+position: absolute;
+lefT: 0;
+top: 1.2rem;
+font-family: 'Roboto Slab', serif;
+font-weight: 200;
+font-size: 2rem;
+color: #7d7d7d;
+line-height: 1;
+z-index: 1;
+}
+</style><div class="divider d-none d-lg-block mt-5"></div><section class="block-09ec3daf86984b36a7cc563066480b65f053dd5e3864b3352d2aa58d59ea9f95 d-block"><div class="container-fluid p-0"><div class="row no-gutters"><div class="col-12 pt-4 pt-lg-6 pb-4 text-center counter"> <header><h3 class="m-0 p-0 egyptian lh-rel-1-v ls-narrow fs-20-v fs-23-v-lg darkText mb-2 mb-lg-3 nohover">ΘΕΜΑΤΑ<span class="roboto fw-200-v ls-none"> ΔΗΜΟΦΙΛΗ</span></h3> </header><div class="col-12 text-left px-0 px-lg-6"><div class="container-fluid p-0 px-0 px-lg-6"><div class="px-lg-4"><div class="divider thinnest"></div></div><div class="row no-gutters mt-4 m-less px-lg-4"> <div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/culture/vivlio/filanthropiko-bibliopoleio-tis-athinas-poy-moirazei-ta-esoda-toy-se-kakopoiimenes" class="d-block" title="Το φιλανθρωπικό βιβλιοπωλείο της Αθήνας που μοιράζει τα έσοδά του σε κακοποιημένες γυναίκες "> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/_MG_7489.jpg 1x, ../images/_MG_7489_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/_MG_7489_2.jpg 1x, ../images/_MG_7489_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/_MG_7489.jpg" width="198" height="132" alt="Το φιλανθρωπικό βιβλιοπωλείο της Αθήνας που μοιράζει τα έσοδα του σε κακοποιημένες γυναίκες " loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΒΙΒΛΙΟ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Βιβλίο </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Το φιλανθρωπικό βιβλιοπωλείο της Αθήνας που μοιράζει τα έσοδά του σε κακοποιημένες γυναίκες</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/culture/arxaiologia/mpetani-hioyz-diasimo-symposio-toy-platona-itan-ena-dinner-party-me-moysiki" class="d-block" title="Μπέτανι Χιουζ: «Το Συμπόσιο του Πλάτωνα ήταν ένα dinner party με μουσική, χορό, φλερτ και κρασί»"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/Genius-of-the-Ancient-World_Socr.jpg 1x, ../images/Genius-of-the-Ancient-World_Socr_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/Genius-of-the-Ancient-World_Socr_3.jpg 1x, ../images/Genius-of-the-Ancient-World_Socr_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/Genius-of-the-Ancient-World_Socr.jpg" width="198" height="132" alt="Μπέτανι Χιουζ: «Από την Εποχή του Χαλκού και μετά, κύριο γνώρισμα του πολιτισμού μας είναι η πλεονεξία, ένα ανδρικό κατά βάση γνώρισμα»  " loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΑΡΧΑΙΟΛΟΓΙΑ &amp; ΙΣΤΟΡΙΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Αρχαιολογία &amp; Ιστορία </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Μπέτανι Χιουζ: «Το Συμπόσιο του Πλάτωνα ήταν ένα dinner party με μουσική, χορό, φλερτ και κρασί»</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/culture/theatro/o-megalos-theatrikos-odigos-tis-lifo-173-parastaseis-gia-ti-nea-sezon" class="d-block" title="Ο μεγάλος θεατρικός οδηγός της LiFO: 173 παραστάσεις για τη νέα σεζόν"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/National_Theatre_of_Greece-38_1.jpg 1x, ../images/National_Theatre_of_Greece-38_1_3.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/National_Theatre_of_Greece-38_1_1.jpg 1x, ../images/National_Theatre_of_Greece-38_1_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/National_Theatre_of_Greece-38_1.jpg" width="198" height="132" alt="Αφιέρωμα θέατρο" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΘΕΑΤΡΟ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Θέατρο </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Ο μεγάλος θεατρικός οδηγός της LiFO: 173 παραστάσεις για τη νέα σεζόν</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class=" col-12 col-lg-3 mb-lg-4 pb-lg-2 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/culture/design/mia-mpoyhara-mporei-na-soy-kanei-spiti-mantara" class="d-block" title="Μια μπουχάρα μπορεί να σου κάνει το σπίτι μαντάρα"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/interior-michelis%20%285%29.jpg 1x, ../images/interior-michelis%20%285%29_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/interior-michelis%20%285%29_2.jpg 1x, ../images/interior-michelis%20%285%29_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/interior-michelis%20%285%29.jpg" width="198" height="132" alt="Μια μπουχάρα μπορεί να σου κάνει το σπίτι μαντάρα" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> DESIGN</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Design </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Μια μπουχάρα μπορεί να σου κάνει το σπίτι μαντάρα</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/stiles/optiki-gonia/toyaletes-poy-den-kleidonoyn-enas-mini-proklitikos-asteriskos-stin-axiologisi" class="d-block" title="Τουαλέτες που δεν κλειδώνουν: Ένας μίνι προκλητικός αστερίσκος στην αξιολόγηση της εστίασης"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/RESTROOM.jpg 1x, ../images/RESTROOM_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/RESTROOM_2.jpg 1x, ../images/RESTROOM_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/RESTROOM.jpg" width="198" height="132" alt="Τουαλέτες που δεν κλειδώνουν: ένας μίνι προκλητικός αστερίσκος στην αξιολόγηση της εστίασης" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΟΠΤΙΚΗ ΓΩΝΙΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Οπτική Γωνία </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Τουαλέτες που δεν κλειδώνουν: Ένας μίνι προκλητικός αστερίσκος στην αξιολόγηση της εστίασης</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/stiles/optiki-gonia/koyrasate-syntrofoi" class="d-block" title="Κουράσατε, σύντροφοι…"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/pantelakis.jpeg 1x, ../images/pantelakis_1.jpeg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/pantelakis_2.jpeg 1x, ../images/pantelakis_3.jpeg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/pantelakis.jpeg" width="198" height="132" alt="Κουράσατε, σύντροφοι…" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΟΠΤΙΚΗ ΓΩΝΙΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Οπτική Γωνία </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Κουράσατε, σύντροφοι…</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/culture/music/o-goa-gil-ston-oyrano-me-diamantia" class="d-block" title="Ο Goa Gil στον ουρανό με διαμάντια"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/goa-gil-U6OMb.jpg 1x, ../images/goa-gil-U6OMb_2.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/goa-gil-U6OMb_3.jpg 1x, ../images/goa-gil-U6OMb_1.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/goa-gil-U6OMb.jpg" width="198" height="132" alt="Ο Goa Gil στον ουρανό με διαμάντια" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΑΠΩΛΕΙΕΣ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Απώλειες </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Ο Goa Gil στον ουρανό με διαμάντια</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class=" col-12 col-lg-3 mb-lg-4 pb-lg-2 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/tropos-zois/health-fitness/ta-hot-girls-miloyn-anoihta-gia-eyerethisto-entero-sto-tiktok" class="d-block" title="Τα hot girls μιλούν ανοιχτά για το ευερέθιστο έντερο στο TikTok"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/IBS.jpeg 1x, ../images/IBS_2.jpeg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/IBS_3.jpeg 1x, ../images/IBS_1.jpeg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/IBS.jpeg" width="198" height="132" alt="Τα hot girls και το ευερέθιστο έντερο" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> SOCIAL MEDIA</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Social Media </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Τα hot girls μιλούν ανοιχτά για το ευερέθιστο έντερο στο TikTok</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div> </div></div></div><div class="col-1"></div></div></div></div></section></div></div></div><div class="views-element-container settings-tray-editable block block-views block-views-blockcommon-article-blocks-block-1" id="block-views-block-common-article-blocks-block-1" data-drupal-settingstray="editable"><div class="content"> <div region="above_footer" class="element-container-wrapper"><style type="text/css">
+.counter {
+counter-reset: count;
+}.common-block-counter:before {
+content: counter(count);
+counter-increment: count;
+margin-right: 0.4rem;
+position: absolute;
+lefT: 0;
+top: 1.2rem;
+font-family: 'Roboto Slab', serif;
+font-weight: 200;
+font-size: 2rem;
+color: #7d7d7d;
+line-height: 1;
+z-index: 1;
+}
+</style><section class="block-eaf04922add55bddc2a9cdef9a012969d648f2e60dad2eb56a63f6e6982e1849 d-block"><div class="container-fluid p-0"><div class="row no-gutters"><div class="col-12 pt-4 pt-lg-6 pb-4 text-center counter"> <header><h3 class="m-0 p-0 egyptian lh-rel-1-v ls-medium fs-20-v fs-22-v-lg darkText mb-2 mb-lg-3 nohover">ΕΙΔΗΣΕΙΣ<span class="roboto fw-200-v ls-none"> ΔΗΜΟΦΙΛΗ</span></h3> </header><div class="col-12 text-left px-0 px-lg-6"><div class="container-fluid p-0 px-0 px-lg-6"><div class="px-lg-4"><div class="divider thinnest"></div></div><div class="row no-gutters mt-4 m-less px-lg-4"> <div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/greece/pethane-o-ithopoios-alexandros-kompogiorgas" class="d-block" title="Πέθανε ο ηθοποιός Αλέξανδρος Κομπόγιωργας"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/kompogiorgas.png 1x, ../images/kompogiorgas_3.png 2x" media="all and (min-width: 1000px)" type="image/png"> <source srcset="../images/kompogiorgas_1.png 1x, ../images/kompogiorgas_2.png 2x" media="all" type="image/png"> <img class=" img-fluid" src="../images/kompogiorgas.png" width="198" height="132" alt="Πέθανε ο ηθοποιός Αλέξανδρος Κομπόγιωργας" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΕΛΛΑΔΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Ελλάδα </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Πέθανε ο ηθοποιός Αλέξανδρος Κομπόγιωργας</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/greece/apagoreyontai-ayrio-oi-sygkentroseis-stin-attiki-kindynos-gia-ti-dimosia-asfaleia" class="d-block" title="Απαγορεύονται αύριο οι συγκεντρώσεις στην Αττική - Κίνδυνος για τη δημόσια ασφάλεια"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/5848003.jpg 1x, ../images/5848003_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/5848003_2.jpg 1x, ../images/5848003_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/5848003.jpg" width="198" height="132" alt="Απαγόρευση συγκεντρώσεων αύριο στην Αττική" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΕΛΛΑΔΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Ελλάδα </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Απαγορεύονται αύριο οι συγκεντρώσεις στην Αττική - Κίνδυνος για τη δημόσια ασφάλεια</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/greece/erhetai-epideinosi-toy-kairoy-oi-problepseis-arnaoytogloy-kolyda-kai-maroysaki" class="d-block" title="Έρχεται επιδείνωση του καιρού- Οι προβλέψεις Αρναούτογλου, Κολυδά και Μαρουσάκη"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/epideinwskairou.jpg 1x, ../images/epideinwskairou_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/epideinwskairou_3.jpg 1x, ../images/epideinwskairou_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/epideinwskairou.jpg" width="198" height="132" alt="Έρχεται επιδείνωση του καιρού- Οι προβλέψεις Αρναούτογλου, Κολυδά και Μαρουσάκη" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΕΛΛΑΔΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Ελλάδα </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Έρχεται επιδείνωση του καιρού- Οι προβλέψεις Αρναούτογλου, Κολυδά και Μαρουσάκη</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class=" col-12 col-lg-3 mb-lg-4 pb-lg-2 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/world/thanatos-mathioy-peri-poios-klironomei-tin-perioysia-toy" class="d-block" title="Θάνατος Μάθιου Πέρι: Ποιος κληρονομεί την περιουσία του"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/matthew-perry-periousia1.png 1x, ../images/matthew-perry-periousia1_3.png 2x" media="all and (min-width: 1000px)" type="image/png"> <source srcset="../images/matthew-perry-periousia1_2.png 1x, ../images/matthew-perry-periousia1_1.png 2x" media="all" type="image/png"> <img class=" img-fluid" src="../images/matthew-perry-periousia1.png" width="198" height="132" alt="Θάνατος Μάθιου Πέρι: Ποιος κληρονομεί την περιουσία του" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΔΙΕΘΝΗ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Διεθνή </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Θάνατος Μάθιου Πέρι: Ποιος κληρονομεί την περιουσία του</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/greece/trohaio-dystyhima-sti-thessaloniki-leoforeio-paresyre-kai-skotose-odigo-mihanis" class="d-block" title="Τροχαίο δυστύχημα στη Θεσσαλονίκη - Λεωφορείο παρέσυρε και σκότωσε οδηγό μηχανής"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/troxaio-thessaloniki.jpg 1x, ../images/troxaio-thessaloniki_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/troxaio-thessaloniki_3.jpg 1x, ../images/troxaio-thessaloniki_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/troxaio-thessaloniki.jpg" width="198" height="132" alt="Τροχαίο δυστύχημα στη Θεσσαλονίκη - Λεωφορείο παρέσυρε και σκότωσε οδηγό μηχανής" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΕΛΛΑΔΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Ελλάδα </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Τροχαίο δυστύχημα στη Θεσσαλονίκη - Λεωφορείο παρέσυρε και σκότωσε οδηγό μηχανής</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/world/airbnb-idioktitis-akinitoy-edioxe-enoiko-mesa-sti-nyhta" class="d-block" title="Airbnb: Ιδιοκτήτης ακινήτου έδιωξε ένοικο μέσα στη νύχτα"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/patrick-perkins-3wylDrjxH-E-unsplash.jpg 1x, ../images/patrick-perkins-3wylDrjxH-E-unsplash_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/patrick-perkins-3wylDrjxH-E-unsplash_2.jpg 1x, ../images/patrick-perkins-3wylDrjxH-E-unsplash_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/patrick-perkins-3wylDrjxH-E-unsplash.jpg" width="198" height="132" alt="Airbnb: Ιδιοκτήτης ακινήτου έδιωξε ένοικο μέσα στη νύχτα" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΔΙΕΘΝΗ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Διεθνή </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Airbnb: Ιδιοκτήτης ακινήτου έδιωξε ένοικο μέσα στη νύχτα</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/media/pethane-o-ithopoios-tailer-kristofer" class="d-block" title="Πέθανε ο ηθοποιός Τάιλερ Κρίστοφερ"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/tyler-christopher.jpg 1x, ../images/tyler-christopher_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/tyler-christopher_3.jpg 1x, ../images/tyler-christopher_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/tyler-christopher.jpg" width="198" height="132" alt="Πέθανε ο ηθοποιός Τάιλερ Κρίστοφερ" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> TV &amp; MEDIA</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> TV &amp; Media </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Πέθανε ο ηθοποιός Τάιλερ Κρίστοφερ</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class=" col-12 col-lg-3 mb-lg-4 pb-lg-2 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/now/world/thanatos-mathioy-peri-ta-prota-apotelesmata-ton-toxikologikon-exetaseon" class="d-block" title="Θάνατος Μάθιου Πέρι: Τα πρώτα αποτελέσματα των τοξικολογικών εξετάσεων"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/tsantler.jpg 1x, ../images/tsantler_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/tsantler_2.jpg 1x, ../images/tsantler_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/tsantler.jpg" width="198" height="132" alt="Θάνατος Μάθιου Πέρι: Τα πρώτα αποτελέσματα των τοξικολογικών εξετάσεων" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΔΙΕΘΝΗ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Διεθνή </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Θάνατος Μάθιου Πέρι: Τα πρώτα αποτελέσματα των τοξικολογικών εξετάσεων</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div> </div></div></div><div class="col-1"></div></div></div></div></section></div></div></div><div class="views-element-container settings-tray-editable block block-views block-views-blockcommon-article-blocks-block-3" id="block-views-block-common-article-blocks-block-3" data-drupal-settingstray="editable"><div class="content"> <div region="above_footer" class="element-container-wrapper"><style type="text/css">
+.counter {
+counter-reset: count;
+}.common-block-counter:before {
+content: counter(count);
+counter-increment: count;
+margin-right: 0.4rem;
+position: absolute;
+lefT: 0;
+top: 1.2rem;
+font-family: 'Roboto Slab', serif;
+font-weight: 200;
+font-size: 2rem;
+color: #7d7d7d;
+line-height: 1;
+z-index: 1;
+}
+</style><section class="block-f1b067ba978f7794fc0169c13435e64164c2218c7a75ccd5b9859ad183fc1bbd d-block"><div class="container-fluid p-0"><div class="row no-gutters"><div class="col-12 pt-4 pt-lg-6 pb-4 text-center counter"> <header><h3 class="m-0 p-0 egyptian lh-rel-1-v ls-narrow fs-15-v fs-22-v-lg darkText mb-2 mb-lg-3 nohover">THE GOOD LIFO<span class="roboto fw-200-v ls-none"> ΔΗΜΟΦΙΛΗ</span></h3> </header><div class="col-12 text-left px-0 px-lg-6"><div class="container-fluid p-0 px-0 px-lg-6"><div class="px-lg-4"><div class="divider thinnest"></div></div><div class="row no-gutters mt-4 m-less px-lg-4"> <div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/good-living/vivid-oi-nees-thikes-kiniton-me-kompso-yfos-poiotita-kai-prasino-koinoniko" class="d-block" title="Vivid: Οι νέες θήκες κινητών με κομψό ύφος, ποιότητα και «πράσινο» κοινωνικό μήνυμα"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/vivid.png 1x, ../images/vivid_3.png 2x" media="all and (min-width: 1000px)" type="image/png"> <source srcset="../images/vivid_1.png 1x, ../images/vivid_2.png 2x" media="all" type="image/png"> <img class=" img-fluid" src="../images/vivid.png" width="198" height="132" alt="Vivid: Οι νέες θήκες κινητών με κομψό ύφος, ποιότητα και &quot;πράσινο&quot; κοινωνικό μήνυμα" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> GOOD LIVING</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Good Living </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Vivid: Οι νέες θήκες κινητών με κομψό ύφος, ποιότητα και «πράσινο» κοινωνικό μήνυμα</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/good-living/i-black-friday-fetos-einai-afieromeni-sto-spiti-kai-edo-tha-matheis-protos" class="d-block" title="Η Black Friday φέτος είναι αφιερωμένη στο σπίτι και εδώ θα μάθεις πρώτος απ’ όλους τα deals"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/PRAKTIKER%20%282%29.jpg 1x, ../images/PRAKTIKER%20%282%29_1.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/PRAKTIKER%20%282%29_3.jpg 1x, ../images/PRAKTIKER%20%282%29_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/PRAKTIKER%20%282%29.jpg" width="198" height="132" alt="Η Black Friday φέτος είναι αφιερωμένη στο σπίτι και εδώ θα μάθεις πρώτος απ’ όλους τα deals" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> GOOD LIVING</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Good Living </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Η Black Friday φέτος είναι αφιερωμένη στο σπίτι και εδώ θα μάθεις πρώτος απ’ όλους τα deals</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/good-living/aythentikos-marathonios-tis-athinas-oi-afaneis-iroes-poy-einai-panta-ekei" class="d-block" title="Αυθεντικός Μαραθώνιος της Αθήνας: Οι «αφανείς» ήρωες που είναι πάντα εκεί και δεν τερματίζουν στο Καλλιμάρμαρο"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/%CE%9C%CE%B1%CF%81%CE%B1%CE%B8%CF%8E%CE%BD%CE%B9%CE%BF%CF%82%20%283%29.jpg 1x, ../images/%CE%9C%CE%B1%CF%81%CE%B1%CE%B8%CF%8E%CE%BD%CE%B9%CE%BF%CF%82%20%283%29_3.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/%CE%9C%CE%B1%CF%81%CE%B1%CE%B8%CF%8E%CE%BD%CE%B9%CE%BF%CF%82%20%283%29_1.jpg 1x, ../images/%CE%9C%CE%B1%CF%81%CE%B1%CE%B8%CF%8E%CE%BD%CE%B9%CE%BF%CF%82%20%283%29_2.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/%CE%9C%CE%B1%CF%81%CE%B1%CE%B8%CF%8E%CE%BD%CE%B9%CE%BF%CF%82%20%283%29.jpg" width="198" height="132" alt="Αυθεντικός Μαραθώνιος της Αθήνας: Οι &quot;αφανείς&quot; ήρωες που είναι πάντα εκεί και δεν τερματίζουν στο Καλλιμάρμαρο" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> GOOD LIVING</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Good Living </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Αυθεντικός Μαραθώνιος της Αθήνας: Οι «αφανείς» ήρωες που είναι πάντα εκεί και δεν τερματίζουν στο Καλλιμάρμαρο</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class=" col-12 col-lg-3 mb-lg-4 pb-lg-2 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/good-living/i-dynami-tis-allagis-poso-etoimoi-eimaste-telika-na-axiopoiisoyme-tin" class="d-block" title="Η δύναμη της αλλαγής: Πόσο έτοιμοι είμαστε, τελικά, να αξιοποιήσουμε την τεχνολογία που καλπάζει;"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B7%20%CF%84%CE%B7%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82.jpg 1x, ../images/%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B7%20%CF%84%CE%B7%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82_3.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B7%20%CF%84%CE%B7%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82_2.jpg 1x, ../images/%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B7%20%CF%84%CE%B7%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82_1.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B7%20%CF%84%CE%B7%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82.jpg" width="198" height="132" alt="Η δύναμη της αλλαγής: Πόσο έτοιμοι είμαστε, τελικά, να εκμεταλευτούμε την τεχνολογία που καλπάζει;" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> GOOD LIVING</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Good Living </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Η δύναμη της αλλαγής: Πόσο έτοιμοι είμαστε, τελικά, να αξιοποιήσουμε την τεχνολογία που καλπάζει;</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/moda/ellesse-51-kommatia-gia-apolyto-athleisure-style-fetos-ton-heimona" class="d-block" title="Ellesse: 5+1 κομμάτια για απόλυτο athleisure style φέτος τον χειμώνα"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/ELLESSE_AW23Q3_WOMENS_ZALANDO_CAMPAIGN_SGT19154_INNOCENZO_DARK_GREEN_SGT19156_RADICE_DARK_GREEN_SGT19178_PASTORE_DARK_GREEN_IMAGE_2_5.jpg 1x, ../images/ELLESSE_AW23Q3_WOMENS_ZALANDO_CAMPAIGN_SGT19154_INNOCENZO_DARK_GREEN_SGT19156_RADICE_DARK_GREEN_SGT19178_PASTORE_DARK_GREEN_IMAGE_2_6.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/ELLESSE_AW23Q3_WOMENS_ZALANDO_CAMPAIGN_SGT19154_INNOCENZO_DARK_GREEN_SGT19156_RADICE_DARK_GREEN_SGT19178_PASTORE_DARK_GREEN_IMAGE_2_7.jpg 1x, ../images/ELLESSE_AW23Q3_WOMENS_ZALANDO_CAMPAIGN_SGT19154_INNOCENZO_DARK_GREEN_SGT19156_RADICE_DARK_GREEN_SGT19178_PASTORE_DARK_GREEN_IMAGE_2_8.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/ELLESSE_AW23Q3_WOMENS_ZALANDO_CAMPAIGN_SGT19154_INNOCENZO_DARK_GREEN_SGT19156_RADICE_DARK_GREEN_SGT19178_PASTORE_DARK_GREEN_IMAGE_2_5.jpg" width="198" height="132" alt="elesse" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΣΤΥΛ &amp; ΟΜΟΡΦΙΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Στυλ &amp; Ομορφιά </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Ellesse: 5+1 κομμάτια για απόλυτο athleisure style φέτος τον χειμώνα</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/guide/nightlife/news/dia-de-los-muertos-altos-tequila-del-maguey-single-village-mezcal-giortazoyn" class="d-block" title="Dia De Los Muertos: Altos Tequila &amp; Del Maguey Single Village Mezcal γιορτάζουν την εμβληματική ημέρα του Μεξικό"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/illustration-offering-dead-mexico.jpg 1x, ../images/illustration-offering-dead-mexico_2.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/illustration-offering-dead-mexico_1.jpg 1x, ../images/illustration-offering-dead-mexico_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/illustration-offering-dead-mexico.jpg" width="198" height="132" alt="Dia De Los Muertos: Altos Tequila &amp; Del Maguey Single Village Mezcal γιορτάζουν την εμβληματική ημέρα του Μεξικό" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΟΔΗΓΟΣ ΔΙΑΣΚΕΔΑΣΗ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Οδηγός Διασκέδαση </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Dia De Los Muertos: Altos Tequila &amp; Del Maguey Single Village Mezcal γιορτάζουν την εμβληματική ημέρα του Μεξικό</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class="col-12 col-lg-3 rightdots pb-lg-5 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/ygeia-eueksia/i-diaita-me-ti-sfragida-toy-cambridge-kai-ta-pollapla-ofeli-gia-tin-ygeia" class="d-block" title="Η δίαιτα με τη σφραγίδα του Cambridge και τα πολλαπλά οφέλη για την υγεία"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/121_TomatoSoup_photo5.jpg 1x, ../images/121_TomatoSoup_photo5_3.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/121_TomatoSoup_photo5_2.jpg 1x, ../images/121_TomatoSoup_photo5_1.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/121_TomatoSoup_photo5.jpg" width="198" height="132" alt="Η δίαιτα με τη σφραγίδα του Cambridge και τα πολλαπλά οφέλη για την υγεία" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΥΓΕΙΑ &amp; ΕΥΕΞΙΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Υγεία &amp; Ευεξία </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> Η δίαιτα με τη σφραγίδα του Cambridge και τα πολλαπλά οφέλη για την υγεία</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div><div class=" col-12 col-lg-3 mb-lg-4 pb-lg-2 px-lg-4"> <article class="h-100"> <a href="https://www.lifo.gr/thegoodlifo/ygeia-eueksia/roe-i-nea-epohi-stin-olistiki-psyhiki-endynamosi" class="d-block" title="roē, η νέα εποχή στην ολιστική ψυχική ενδυνάμωση"> <header class="row no-gutters px-4 px-lg-0"><div class="col-4 col-lg-12 p-0"><div class="aspect aspect-3_2">   <picture> <source srcset="../images/ROE%20Kifisia%20341.jpg 1x, ../images/ROE%20Kifisia%20341_2.jpg 2x" media="all and (min-width: 1000px)" type="image/jpeg"> <source srcset="../images/ROE%20Kifisia%20341_1.jpg 1x, ../images/ROE%20Kifisia%20341_3.jpg 2x" media="all" type="image/jpeg"> <img class=" img-fluid" src="../images/ROE%20Kifisia%20341.jpg" width="198" height="132" alt="roē, η νέα εποχή στην ολιστική ψυχική ενδυνάμωση" loading="lazy"> </picture> </div></div><div class="position-relative common-block-counter pl-lg-5 pl-17-v-lg col-8 col-lg-12 p-0 pl-3 pt-lg-3 lh-rel-1-v"><div class="m-0 p-0 fedranormal lh-12-v fs-4-v ls-supernarrow d-none d-lg-inline redText"> ΥΓΕΙΑ &amp; ΕΥΕΞΙΑ</div> <span class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-lg-none darkGrayText slash"> Υγεία &amp; Ευεξία </span><h3 class="m-0 p-0 fedranormal fs-9-v fs-8-v-lg lh-13-v lh-12-v-lg d-inline d-lg-block "> roē, η νέα εποχή στην ολιστική ψυχική ενδυνάμωση</h3></div><div class="col-12 p-0 divider thinnest light d-block d-lg-none my-4"></div> </header> </a></article></div> </div></div></div><div class="col-1"></div></div></div></div></section></div></div></div></div> <footer><div class="divider thinnest d-none d-lg-block"></div><div class="container"><div class="row py-lg-5 pt-3 pb-6"><div class="col-12 text-center d-block d-lg-none order-1 pb-6"><div class="textSize"> <a class="fontsizer small " id="enlarge1" data-value="fonts-small" href="javascript:setFontSize('smallfonts');">&nbsp;</a> <a class="fontsizer normal" id="enlarge2" data-value="fonts-normal" href="javascript:setFontSize('normalfonts');">&nbsp;</a> <a class="fontsizer large" id="enlarge3" data-value="fonts-large" href="javascript:setFontSize('largefonts');">&nbsp;</a></div></div><div class="col-12 text-center order-3 order-lg-1 pb-5 mb-2"><div class="lifo-logo">&nbsp;</div></div><div class="col-12 text-center d-none d-lg-block order-lg-2 pb-6"> <nav class="cross-sites"><ul class="d-flex m-auto justify-content-center align-items-center flex-wrap p-0"><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="https://mikropragmata.lifo.gr" target="_self" title="ΜΙΚΡΟΠΡΑΓΜΑΤΑ"><img alt="ΜΙΚΡΟΠΡΑΓΜΑΤΑ" height="13" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/mikro_logo.png" width="164" class="lazyload"> </a></li><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="https://ampa.lifo.gr" target="_self" title="ampa"><img alt="ampa" height="20" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/ampa_logo_2021.png" style="margin-bottom: -7px;" width="66" class="lazyload"> </a></li><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="/thegoodlifo" target="_self" title="THE GOOD LIFO"><img alt="THE GOOD LIFO" height="32" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/gl_logo.png" width="39" class="lazyload"> </a></li><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="/guide" target="_self" title="CITY GUIDE"><img alt="CITY GUIDE" height="17" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/cityguide_logo.png" width="122" class="lazyload"> </a></li><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="https://www.tavernamag.com" rel="noreferrer nofollow" target="_blank" title="TAVERNA"><img alt="TAVERNA MAG" height="15" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/taverna_logo.png" width="88" class="lazyload"> </a></li><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="https://www.lifoshop.gr" rel="noreferrer nofollow" target="_blank" title="LIFO SHOP"><img alt="LIFO SHOP" height="32" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/lifoshop_logo.png" width="100" class="lazyload"> </a></li></ul> </nav></div><div class="col-12 text-center order-2 order-lg-3"> <nav role="navigation" id="block-bootstrap-sass-footer" class="settings-tray-editable block block-menu navigation menu--footer" data-drupal-settingstray="editable"> <div class="w-950"><div class="clearfix col-12 text-center mb-6"> <a href="/infos/credits" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/344259">ΤΑΥΤΟΤΗΤΑ</a> <a href="/contacts" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/1013638">ΕΠΙΚΟΙΝΩΝΙΑ</a> <a href="/newsletter/subscribe" class="nav-link footer-link d-inline-block darkGrayText px-3" title="Εγγραφή στο newsletter της LiFO" data-drupal-link-system-path="node/990352">NEWSLETTER</a> <a href="/infos/subscriptions" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/344260">ΔΙΑΦΗΜΙΣΕΙΣ</a> <a href="/infos/company_profile" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/344266">ΕΤΑΙΡΙΚΟ ΠΡΟΦΙΛ</a> <a href="/infos/terms" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/310377">ΟΡΟΙ ΧΡΗΣΗΣ</a> <a href="/infos/privacy-policy" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/344293">ΠΟΛΙΤΙΚΗ ΑΣΦΑΛΕΙΑΣ ΠΛΗΡΟΦΟΡΙΩΝ &amp; ΠΡΟΣΤΑΣΙΑΣ ΑΠΟΡΡΗΤΟΥ</a> <a href="/infos/cookies" class="nav-link footer-link d-inline-block darkGrayText px-3" data-drupal-link-system-path="node/344268">ΠΟΛΙΤΙΚΗ ΧΡΗΣΗΣ COOKIES</a> <a href="/infos/distribution" class="nav-link footer-link d-inline-block darkGrayText px-3" title="Σημεία Διανομής" data-drupal-link-system-path="node/344261">ΣΗΜΕΙΑ ΔΙΑΝΟΜΗΣ</a> <span class="cookie-settings-launcher nav-link footer-link d-inline-block darkGrayText px-3">ΔΙΑΧΕΙΡΙΣΗ COOKIES</span></div></div>  </nav><div id="block-espafooterblock" class="settings-tray-editable block block-block-content block-block-contenta82e0691-0b79-435b-84ac-75ea02e9611a" data-drupal-settingstray="editable"><div class="content"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="https://www.lifo.gr/node/1241644"><img alt="Espa E-banner" data-entity-type="file" data-entity-uuid="12299c3b-3dff-4650-9094-fc8daf7f0feb" height="35" src="../images/e-bannerespa_460X60.jpg" width="269" class="align-center"></a><p> </p></div></div></div></div><div class="col-12 text-center d-lg-block order-3 pb-6"> <nav class="cross-sites"><ul class="d-flex m-auto justify-content-center align-items-center flex-wrap p-0"><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="https://play.google.com/store/apps/details?id=gr.lifo.app" target="_self" title="LiFO Google App"><img alt="LiFO Google App" height="36" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/google-play-badge.svg" width="120" class="lazyload"> </a></li><li class="h-100 d-block px-4"><a class="d-flex flex-column justify-content-center h-100" href="https://apps.apple.com/us/app/lifo/id1673713585" rel="noreferrer nofollow" target="_blank" title="LiFO ios App"><img alt="LiFO ios App" height="40" src="../images/1x1.png" data-src="/themes/custom/bootstrap_sass/images/app-store-badge.svg" width="120" class="lazyload"> </a></li></ul> </nav></div><div class="col-8 offset-2 text-center order-4 pb-6"><div class="metadata small darkGrayText">© 2023 ΔΥΟΔΕΚΑ Α.Ε.</div></div><div class="col-12 d-block d-lg-none order-5"><div class="footer-link-bottom"><ul class="d-flex m-auto align-items-center flex-wrap justify-content-center"><li> <a href="/infos/terms" class="d-inline-block">Όροι χρήσης</a></li><li> <a href="/infos/privacy-policy" class="d-inline-block">Πολιτική προστασίας απορρήτου</a></li><li><span class="cookie-settings-launcher nav-link px-2">Διαχείριση Cookies</span></li></ul></div></div></div></div> </footer></div><div id="upPage" class="back-top"> <a href="#top"><span></span></a></div>   <script type="text/template" id="login-form">
+<div class="login-header"><span>Login</span></div>
+<div class="login-form">
+<form class="user-login-form login-form" data-drupal-selector="user-login-form" novalidate="novalidate" action="/images/feed.svg" method="post" id="user-login-form" accept-charset="UTF-8">
+<div class="login-input">
+<fieldset class="js-form-item d-block mb-3 mb-lg-0 js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-group ">
+<input autocorrect="none" autocapitalize="none" spellcheck="false" placeholder="Email" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required w-100" required="required" aria-required="true" />
+</fieldset>
+</div><div class="login-input">
+<fieldset class="js-form-item d-block mb-3 mb-lg-0 js-form-type-password form-type-password js-form-item-pass form-item-pass form-group ">
+<input placeholder="Συνθηματικό" data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required w-100" required="required" aria-required="true" />
+</fieldset>
+</div><input autocomplete="off" data-drupal-selector="form-mk1shuaf4k4rtplc82u6lvs8niq3lmhpoz82mqhmges" type="hidden" name="form_build_id" value="form-MK1shuAf4K4rtplc82u6LvS8niq3lMhPOZ82mqhMGes" class="w-100" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" class="w-100" />
+<div class="row align-items-center remember no-gutters">
+<input data-id="edit-persistent-login" data-title="Να με θυμάσαι"  data-drupal-selector="edit-persistent-login" type="checkbox" id="edit-persistent-login" name="persistent_login" value="1" class="form-checkbox">
+<label  class="form-check-label" for="edit-persistent-login">
+Να με θυμάσαι
+</label>
+</div><!-- Template START : themes/custom/bootstrap_sass/templates/container.html.twig //-->
+<div data-drupal-selector="edit-actions" class="form-actions element-container-wrapper js-form-wrapper form-wrapper" id="edit-actions"><div class="login-buttons pt-2"><button data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Είσοδος" class="button js-form-submit form-submit btn btn-primary">Είσοδος</button>
+</div></div>
+<!-- Template END : themes/custom/bootstrap_sass/templates/container.html.twig //-->
+</form>
+<a class="reset-pass" href="/user/password?destination=%2Fsystem%2F404" rel="nofollow" title="Επαναφορά του κωδικού πρόσβασης">Ξέχασα τον
+κωδικό μου!</a>
+</div>
+<div class="register">
+<span>Δεν έχεις λογαριασμό;</span>
+<a title="Δημιουργία Λογαριασμού" href="/user/register" rel="nofollow">Φτιάξε τώρα!</a>
+</div>
+</script><script type="text/template" id="login-form-loggedin">
+<div class="login-header"><span>%%nickname%%</span></div>
+<div class="fedrabold text-center m-0 p-0 fs-9-v lh-20-v whiteText login-form">
+<a href="/user/%%id%%/edit" title="Διαχείριση του Προφίλ και των Περιεχομένων σας"
+class="whiteText redHover fs-7-v">Ο ΛΟΓΑΡΙΑΣΜΟΣ ΜΟΥ</a>
+<div class="divider thinnest light"></div>
+<div class="login-buttons pt-2">
+<a id="btnLogout" href="/user/logout?destination=%2Fsystem%2F404" title="ΕΞΟΔΟΣ" class="button btn btn-primary fs-7-v">ΕΞΟΔΟΣ</a>
+</div>
+</div>
+</script> <div style="position: absolute; bottom: 0; height: 0;width: 0;"> <span data-quickedit-entity-id="block_content/37"></span><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="overpage" id="1x1_over"> </div><div class="block-over-backdrop d-none"> </div><script type="text/javascript">
+var hidden, visibilityChange, activeFlag;
+activeFlag = true;
+if (typeof document.hidden !== "undefined") {
+// Opera 12.10 and Firefox 18 and later support
+hidden = "hidden";
+visibilityChange = "visibilitychange";
+} else if (typeof document.msHidden !== "undefined") {
+hidden = "msHidden";
+visibilityChange = "msvisibilitychange";
+} else if (typeof document.webkitHidden !== "undefined") {
+hidden = "webkitHidden";
+visibilityChange = "webkitvisibilitychange";
+}
+function handleVisibilityChange() {
+if (document[hidden]) {
+} else {
+if (activeFlag) {
+window.addEventListener("googletagloaded", (evt) => {
+googletag.cmd.push(function () {
+googletag.display("1x1_over");
+});
+activeFlag = false;
+});
+}
+}
+}
+if (
+typeof document.addEventListener === "undefined" ||
+typeof document[hidden] === "undefined"
+) {
+window.addEventListener("googletagloaded", (evt) => {
+googletag.cmd.push(function () {
+googletag.display("1x1_over");
+});
+});
+} else {
+if (document[hidden] == true) {
+document.addEventListener(visibilityChange, handleVisibilityChange, false);
+} else {
+window.addEventListener("googletagloaded", (evt) => {
+googletag.cmd.push(function () {
+googletag.display("1x1_over");
+});
+});
+}
+}
+</script></div></div><style>
+.overpage[style^="width: 800px;"]+.block-over-backdrop__active {
+display: block !important;
+position: fixed;
+opacity: .8;
+background-color: black;
+width: 100vw;
+height: 110vh;
+left: 0;
+top: 0;
+z-index: 9;
+}#ind-vid:nth-of-type(1) {
+width: 100%;
+position: relative;
+z-index: 0;
+display: block;
+}
+</style>  <span data-quickedit-entity-id="block_content/47"></span><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div style="height:0px; width: 0px; overflow: hidden;"><div id="640x360"><script>
+window.addEventListener('googletagloaded', (evt) => {
+googletag.cmd.push(function() { googletag.display('640x360'); });
+});
+</script></div></div></div> <script>(function (wd, dc) {
+wd.addEventListener('load', function (evt) {
+const backdrop = dc.querySelector('.block-over-backdrop');
+if (!backdrop.classList.contains('loaded')) {
+backdrop.classList.add('block-over-backdrop__active', 'loaded');
+} else {
+backdrop.classList.remove('block-over-backdrop__active');
+}
+});
+}(window, document))
+</script><script>
+var pageArticle = false;
+</script><style>
+#onesignal-popover-container, #onesignal-slidedown-container { z-index: 1030; }
+</style><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"el"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bootstrap_barrio\/form,bootstrap_barrio\/global-styling,bootstrap_sass\/global-styling,bootstrap_sass\/live_blogging_banner,ckeditor_indentblock\/indentblock,core\/picturefill,extlink\/drupal.extlink,moderated_content_bulk_publish\/moderated-content-bulk-publish,system\/base,views\/views.module","theme":"bootstrap_sass","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":["www.lifo.gr"]}},"dfl":{"other":false,"homepage":false,"column":null,"category":null},"user":{"uid":0,"permissionsHash":"40450fdb5a57b7ffbecb8642b7ad29d34a66dc10407a5ac64643ce73975ddefd"}}</script><script src="../js/js_v81KEA1er66NDpfmZi90eMmbP4ucziJziPS9oJ4CIno.js" data-cookieconsent="ignore"></script></body></html>
