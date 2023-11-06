@@ -1092,24 +1092,7 @@
                                         <input type="hidden" name="timezone" value="-180"></form>
                                     </div>
                                   </div>
-                                  <script>
-                                    let flag = 0;
-                                    var intr,
-                                      time = 3600;
-                                    function start_timer() {
-                                      intr = setInterval(tick, 1e3);
-                                    }
-                                    function tick() {
-                                      if (0 < time) {
-                                        time -= 1;
-                                        var e = Math.floor(time / 60),
-                                          t = 10 <= (t = time - 60 * e) ? t : "0" + t;
-                                        if ((e < 0 && (e = 0), jQuery("#min").html(e), jQuery("#sec").html(t), 0 == e && 0 == t)) return clearInterval(intr), !1;
-                                      }
-                                    }
-                                    start_timer();
-                                    tick();
-                                  </script>
+                                  
                                   <!-- // FORM -->
                                   
                                   
@@ -2348,6 +2331,7 @@
     class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
     <div class="overpage" id="1x1_over"> </div>
     <div class="block-over-backdrop d-none"> </div>
+    
     <script>
       /* Anchor smooth scroll */
       (() => {
@@ -2559,5 +2543,24 @@
 
 <script src="js/videojs.ads.min.js" data-cookieconsent="ignore"></script>
 <script src="js/js_5Tp3P5yIQJ09vjarDss4fQGNvJ21OkgTQ3kXMAZRNGM.js" data-cookieconsent="ignore"></script>
+
+<script>
+  let flag = 0;
+  var intr,
+    time = 3600;
+  function start_timer() {
+    intr = setInterval(tick, 1e3);
+  }
+  function tick() {
+    if (0 < time) {
+      time -= 1;
+      var e = Math.floor(time / 60),
+        t = 10 <= (t = time - 60 * e) ? t : "0" + t;
+      if ((e < 0 && (e = 0), jQuery("#min").html(e), jQuery("#sec").html(t), 0 == e && 0 == t)) return clearInterval(intr), !1;
+    }
+  }
+  start_timer();
+  tick();
+</script>
 </body>
 </html>
