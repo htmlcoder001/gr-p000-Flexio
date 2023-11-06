@@ -202,7 +202,7 @@ encodeURI(title),"Twitter","width=640,height=580");}
 function viewSize(){return jQuery("#bs-sizer").find("div:visible").data("size");}
 function scrollToTop(){jQuery("body,html").animate({scrollTop:0,},800);}
 function initScrollUpDown(){try{if(jQuery("#godown").length>0){jQuery("#godown").once("godownhandler").click(function(){jQuery("html, body").animate({scrollTop:jQuery(".article-body").offset().top-25,},2000);});}
-if(jQuery(".back-top a").length>0){jQuery(".back-top a").once("gouphandler").click(function(){jQuery("body,html").animate({scrollTop:0,},800);return false;});}
+
 jQuery("#back-to-top").once("back to top").click(function(e){e.preventDefault();scrollToTop();});}catch(err){console.log("Failed to initScrollUpDown: "+err.message);}}
 function responsiveIframes(){try{if(jQuery(".node--type-article .maintext iframe, .videoformat .video-header :not(.plyr--youtube):not(.plyr--vimeo) iframe").length){var $iframes=jQuery(".node--type-article .maintext iframe, .videoformat .video-header :not(.plyr--youtube):not(.plyr--vimeo) iframe");$iframes.once("iframe-size").each(function(){var $iframe=jQuery(this);var frameHeight=this.height;var $iframe=jQuery(this);if($iframe.parents(".dynamic-block").length>0){return;}
 if($iframe.attr("src")!==undefined&&$iframe.attr("src").indexOf("instagram")>0){return;}

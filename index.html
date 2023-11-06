@@ -1094,9 +1094,256 @@
                                   </div>
                                   
                                   <!-- // FORM -->
+  
+                                  <div class="px-lg-0" style="margin-top: 32px;">
+                                    <div class="divider thinnest light my-2"></div>
+                                  </div>
                                   
-                                  
-                                  
+                                  <!-- COMMENTS -->
+                                  <style>
+                                    .webt-comments {
+                                    
+                                    }
+                                    
+                                    .webt-comments__heading {
+                                      display: block;
+                                      font-size: 22px;
+                                      color: #000;
+                                      font-weight: bold;
+                                      margin-bottom: 24px;
+                                      margin-top: 12px;
+                                    }
+                                    
+                                    .webt-comments__item {
+                                      display: grid;
+                                      grid-template-columns: 50px 1fr;
+                                      grid-gap: 8px 16px;
+  
+                                      margin-bottom: 32px;
+                                    }
+                                    .comments-item__photo {
+                                      width: 50px;
+                                      height: 50px;
+                                      overflow: hidden;
+                                      -webkit-border-radius: 100%;
+                                      -moz-border-radius: 100%;
+                                      -ms-border-radius: 100%;
+                                      -o-border-radius: 100%;
+                                      border-radius: 100%;
+                                    }
+                                    .comments-photo__img {
+                                      width: 100%;
+                                      min-height: 100%;
+                                      object-fit: cover;
+                                      object-position: top;
+                                    }
+                                    .comments-item__content {
+                                      padding: 12px 12px 24px 12px;
+                                      -webkit-border-radius: 6px;
+                                      -moz-border-radius: 6px;
+                                      -ms-border-radius: 6px;
+                                      -o-border-radius: 6px;
+                                      border-radius: 6px;
+                                      background-color: #f5f5f5;
+                                      position: relative;
+                                    }
+                                    .comments-content__name {
+                                      display: block;
+                                      margin-bottom: 6px;
+                                      font-weight: bold;
+                                      font-size: 15px;
+                                    }
+                                    .comments-content__text {
+                                      font-size: 16px;
+                                      color: #000000;
+                                    }
+                                    .comments-item__actions {
+                                      grid-column: span 2;
+                                      padding-left: 72px; /* 50px photo + 16px gap + 6px additional padding */
+  
+                                      display: flex;
+                                      align-items: center;
+                                      justify-content: flex-start;
+                                      gap: 6px;
+                                    }
+                                    .comments-actions__link {
+                                      font-size: 14px;
+                                    }
+                                    .comments-content__emotions {
+                                      position: absolute;
+                                      bottom: -10px;
+                                      right: 10px;
+                                      display: flex;
+                                      align-items: center;
+                                      justify-content: flex-start;
+                                      box-shadow: -3px 2px 5px rgb(133, 133, 133);
+                                      background-color: #fff;
+                                      padding: 2px;
+                                      -webkit-border-radius: 50px;
+                                      -moz-border-radius: 50px;
+                                      -ms-border-radius: 50px;
+                                      -o-border-radius: 50px;
+                                      border-radius: 50px;
+                                    }
+                                    .comments-emotions__icon {
+                                      width: 20px;
+                                      height: 20px;
+                                      object-fit: cover;
+                                    }
+                                    .comments-emotions__value {
+                                      font-size: 14px;
+                                      color: #999999;
+                                      padding: 0 4px;
+                                    }
+                                  </style>
+                                  <div class="webt-comments">
+                                    <span class="webt-comments__heading">Σχόλια</span>
+                                    
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-1.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Αλέξανδρος Παναρίτης</span>
+                                        <p class="comments-content__text">Σμαράγδα είσαι απίστευτη! Εγώ δεν μπορώ να απαλλαγώ από την αρθροπάθεια. Επισκέφθηκα πολλούς γιατρούς, πλήρωσα αδιανόητα λεφτά στα φαρμακεία! Αλλά δεν είχε νόημα. Το γόνατο έχει ήδη παραμορφωθεί. Και ο γιατρός με τρόμαξε, είπε πως τώρα θα μείνω ανάπηρος για πάντα, αν αφήσω την ασθένεια να επιδεινωθεί. Τώρα θα δοκιμάσω την κρέμα, ίσως με βοηθήσει.</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-like.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">589</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+  
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-2.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Άννα Καρασαββίδου</span>
+                                        <p class="comments-content__text">Η κρέμα Flexio βοήθησε τον πατέρα μου να απαλλαγεί από την αρθρίτιδα. Φοβόμουν πολύ ότι δεν θα μπορούσε ποτέ να περπατήσει κανονικά. Στην αρχή άφηνα πολλά λεφτά στα φαρμακεία, ξοδεύοντας το μισό μισθό μου σε διάφορες αλοιφές και χάπια, μέχρι που ένας φίλος στη δουλειά μου είπε για το προϊόν Flexio. Παρήγγειλα αμέσως μια ολοκληρωμένη θεραπεία- είναι και κερδοφόρο και σίγουρο. Εάν η ασθένεια δεν εξαλειφθεί, θα συνεχίσει να επιστρέφει.</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-like.png" alt="" class="comments-emotions__icon">
+                                          <img src="images/emotion-heart.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">491</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+  
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-3.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Ανδρέας Κουκουριάκης</span>
+                                        <p class="comments-content__text">Γεια σας αγαπητοί μου! Είμαι 72 ετών και τα τελευταία 15 χρόνια πάσχω από οστεοχόνδρωση. Οι γιατροί με αντιμετώπισαν με κάθε είδους φάρμακα, αλλά ήταν εντελώς άχρηστα. Και το πόσα χρήματα ξόδεψα, τρομάζεις αν τα υπολογίσεις. Πήγα μάλιστα στο νοσοκομείο για να δω έναν γιατρό, ο οποίος με συμβούλεψε να χειρουργηθώ και μετά να κάνω κάποιες έξτρα επεμβάσεις χιλιάδων ευρώ. Πού να βρει ένας συνταξιούχος τέτοια χρήματα; Ζήτησα από την κόρη μου να με βοηθήσει και έφερε αυτή την κρέμα Flexio. Άρχισα να την χρησιμοποιώ και μετά από δύο μήνες ένιωσα πολύ καλύτερα - τα γέρικα πόδια περπατούν σαν νεαρά :)</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-heart.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">241</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+  
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-4.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Στέφανος Μουρατίδης</span>
+                                        <p class="comments-content__text">Αυτή η αρθροπάθεια με σκότωσε! Δεν έχω καμία δύναμη εδώ και περίπου 5 χρόνια. Είναι πραγματικά δυνατόν να ξεφορτωθώ από την ασθένεια, δεν ελπίζω πια σε τίποτα...</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-like.png" alt="" class="comments-emotions__icon">
+                                          <img src="images/emotion-heart.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">648</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+  
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-5.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Ιωάννης Ανδρικόπουλος</span>
+                                        <p class="comments-content__text">Στέφανε, πως σε καταλαβαίνω... Την ίδια ιστορία είχα. Ανυπόφορη κατάσταση! Πάρε την κρέμα Flexio, δεν θα το μετανιώσεις. Βοήθησε εμένα και όλη μου την οικογένεια.</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-like.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">741</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+  
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-6.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Έλενα Ναβροζίδου</span>
+                                        <p class="comments-content__text">Σμαράγδα, σας ευχαριστώ για την ιστορία σας! Έχετε τόσο δίκιο - αν όχι για χάρη μας, τότε για χάρη των αγαπημένων μας, θα πρέπει να προσέχουμε την υγεία μας. Η εμπειρία σας με βοήθησε πολύ γιατί... ο άντρας μου πάσχει από αρθρίτιδα. Τώρα όμως ξέρω πώς μπορώ να τον βοηθήσω! Σας ευχαριστώ πολύ και πάλι!</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-like.png" alt="" class="comments-emotions__icon">
+                                          <img src="images/emotion-heart.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">340</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+  
+                                    <div class="webt-comments__item">
+                                      <div class="comments-item__photo">
+                                        <img src="images/comments/comment-7.jpg" alt="" class="comments-photo__img">
+                                      </div>
+                                      <div class="comments-item__content">
+                                        <span class="comments-content__name">Χριστίνα Κορινθίου</span>
+                                        <p class="comments-content__text">Η κόρη μου μου έδωσε αυτή την κρέμα. Ο γιατρός μου συνέστησε μια τέτοια αστρονομική ποσότητα όλων των ειδών θεραπείας!!! Φρίκη. Είναι καλό που έμαθα για αυτό το προϊόν Flexio. Επαινώ αυτό το προϊόν! Πολύ αποτελεσματική κρέμα, όλα έφυγαν.</p>
+                                        <div class="comments-content__emotions">
+                                          <img src="images/emotion-like.png" alt="" class="comments-emotions__icon">
+                                          <span class="comments-emotions__value">450</span>
+                                        </div>
+                                      </div>
+                                      <div class="comments-item__actions">
+                                        <a href="#form_wrap" class="comments-actions__link">Αρέσει</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Απάντηση</a>
+                                        <a href="#form_wrap" class="comments-actions__link">Μετάφραση</a>
+                                        <span class="comments-actions__link">Πριν από μια ώρα</span>
+                                      </div>
+                                    </div>
+                                    
+                                  </div>
+                                  <!-- //COMMENTS -->
                                   
                                   
                                 </div>
